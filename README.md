@@ -1,3 +1,1 @@
-# Rohit Satija, PhD
-
-Personal website
+This is my personal website
